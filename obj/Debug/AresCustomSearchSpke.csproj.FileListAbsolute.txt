@@ -1,0 +1,7 @@
+C:\Users\dsheffer.ATLAS-SYS\Source\Repos\AresCustomSearchSpke\AresCustomSearchSpke\obj\Debug\AresCustomSearchSpke.csprojResolveAssemblyReference.cache
+C:\Users\dsheffer.ATLAS-SYS\Source\Repos\AresCustomSearchSpke\AresCustomSearchSpke\obj\Debug\AresCustomSearchSpke.csproj.CoreCompileInputs.cache
+C:\Users\dsheffer.ATLAS-SYS\Source\Repos\AresCustomSearchSpke\AresCustomSearchSpke\bin\Debug\AresCustomSearchSpke.exe.config
+C:\Users\dsheffer.ATLAS-SYS\Source\Repos\AresCustomSearchSpke\AresCustomSearchSpke\bin\Debug\AresCustomSearchSpke.exe
+C:\Users\dsheffer.ATLAS-SYS\Source\Repos\AresCustomSearchSpke\AresCustomSearchSpke\bin\Debug\AresCustomSearchSpke.pdb
+C:\Users\dsheffer.ATLAS-SYS\Source\Repos\AresCustomSearchSpke\AresCustomSearchSpke\obj\Debug\AresCustomSearchSpke.exe
+C:\Users\dsheffer.ATLAS-SYS\Source\Repos\AresCustomSearchSpke\AresCustomSearchSpke\obj\Debug\AresCustomSearchSpke.pdb
